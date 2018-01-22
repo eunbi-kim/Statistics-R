@@ -1,0 +1,12 @@
+* 아래의 파일 규칙명을 준수하여 파일 저장
+ - 파일명 : example, exercise, test 중 하나 택.title.R
+    * example : 예제
+    * excercise : 실습
+    * test : 연습문제
+
+ ex) example.DataFrame_DataAdd.R
+     example.DataFrame_DataAdd.RData
+
+
+* R 코드(.R), R Data(.RData), 그래프(.jpg 혹은 .png) 모두 저장
+
